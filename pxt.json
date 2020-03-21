@@ -1,0 +1,20 @@
+{
+    "name": "pxt-RL0x",
+    "description": "",
+    "dependencies": {
+        "xinabox-cs11": "*",
+        "pxt-rl0x": "github:luqmaanb/pxt-k#master"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "supportedTargets": [
+        "maker"
+    ],
+    "preferredEditor": "blocksprj"
+}
